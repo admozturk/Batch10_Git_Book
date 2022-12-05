@@ -8,3 +8,4 @@ Flow of a new project:
 • Link / Push to remote repository
           Connect to a GitHub repository and push the changes
 Not: Each project has its own special repository.
+
