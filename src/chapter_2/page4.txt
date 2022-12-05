@@ -6,4 +6,4 @@ Git fetch, update, pull:
        ○ Pulling is more flexible. We will see later
 ■ Branch to branch
 ● Updating will apply changes to the same branch
-
+I will add new features
