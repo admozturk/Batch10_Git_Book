@@ -1,0 +1,20 @@
+
+Git in IntelliJ – Link GitHub account:
+- Go to IntelliJ -> Preference on mac or File -> Settings on windows
+● Select Version Control from left tab, expand the tab and select GitHub
+● Click on Add Account, it will prompt to login from browser, Go ahead and
+login and say yes to any pop-ups until it says successful from browser and check if the account is displayed in the IntelliJ settings.
+
+   Share the project (This is one time/first time)
+- Click on the Git menu, hover the GitHub option and select Share Project on GitHub
+- In the popup window click share
+● To view the remote repository: Git menu -> GitHub -> and select Open on GitHub
+
+Sharing Project Breakdown
+● What did Sharing the project to GitHub do?
+Create new Github.com remote repository under your account
+Connect your local repository to remote repository created above
+Push your local repository commits to remote repository
+After sharing: Since the connection between local repository and remote repository
+already been established, all you must do from this point on is make more commits
+locally and push it to the remote repository.
