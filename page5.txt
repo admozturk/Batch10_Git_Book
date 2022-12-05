@@ -1,0 +1,8 @@
+Sharing Project Breakdown
+● What did Sharing the project to GitHub do?
+Create new Github.com remote repository under your account
+Connect your local repository to remote repository created above
+Push your local repository commits to remote repository
+After sharing: Since the connection between local repository and remote repository
+already been established, all you must do from this point on is make more commits
+locally and push it to the remote repository.
