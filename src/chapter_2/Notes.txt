@@ -7,3 +7,4 @@ i.e. testing. It consists of a series of activities carried
 out methodologically to help certify your software product. 
 STLC stands for Software Testing Life Cycle.
 so later I will add more informations
+I ll try the pull feature
