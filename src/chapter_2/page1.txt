@@ -18,3 +18,4 @@ Push your local repository commits to remote repository
 After sharing: Since the connection between local repository and remote repository
 already been established, all you must do from this point on is make more commits
 locally and push it to the remote repository.
+I edit some new files in my project
