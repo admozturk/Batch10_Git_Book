@@ -1,0 +1,14 @@
+This is start of my book
+It will be extended whenever I will add new changes for my project
+this is the first day that I m learning how to use git using with IntelliJ IDE
+
+java is cool but exactly difficult to learn
+
+but I ll do by best to learn it because it is very interesting.
+
+how to
+
+
+
+
+

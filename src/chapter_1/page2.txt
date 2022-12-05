@@ -1,0 +1,11 @@
+this is just a trial of how to commit in intellij to git
+
+Git in IntelliJ:
+- From the top menu find the VCS option. Click Enable Version Control Integration
+- Select the git option from the pop-up window
+* It will automatically create a git repository for your project
+? Which kind of repository?
+- Where it said VSC before should now say Git and have some new options
+- Your files will get some coloring, this is normal
+- Red: file is un-versioned
+- Green: actively changed and ready to be part of a repository
