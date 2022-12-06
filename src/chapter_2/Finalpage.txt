@@ -6,3 +6,6 @@ and
 push --> update alost the same both 
 remote==>local
 pull==> update
+
+it is the same workflow
+
