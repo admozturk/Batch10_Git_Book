@@ -1,0 +1,8 @@
+so far git we learned 
+commit --> push
+and
+
+
+push --> update alost the same both 
+remote==>local
+pull==> update
